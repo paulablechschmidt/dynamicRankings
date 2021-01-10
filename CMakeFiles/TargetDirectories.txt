@@ -1,0 +1,3 @@
+/home/paula/Documents/NewSetting/dynamicRankingsWithAttributes/CMakeFiles/edit_cache.dir
+/home/paula/Documents/NewSetting/dynamicRankingsWithAttributes/CMakeFiles/rebuild_cache.dir
+/home/paula/Documents/NewSetting/dynamicRankingsWithAttributes/CMakeFiles/dynamicRankingsWithAttributes.dir
